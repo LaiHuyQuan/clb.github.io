@@ -102,7 +102,7 @@ html {
     margin-top: 46px;
     height: 200px;
     padding-top: 50%;
-    background: url(/assets/img/slider/slider1.jpg) bottom center / cover no-repeat  ;
+    background: url(assets/img/slider/slider1.jpg) bottom center / cover no-repeat  ;
     position: relative;
 }
 
